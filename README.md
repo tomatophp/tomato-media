@@ -1,6 +1,6 @@
 # Tomato media
 
-Media Libarary UI to select files on input or browse your media files
+Media Library UI to select files on input or browse your media files
 
 ## Installation
 
